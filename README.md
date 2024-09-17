@@ -28,8 +28,3 @@ Finally, click Clone
    Select the Pixel 3a smartphone as the device to emulate, and choose the device OS as Android 8.0 ("Oreo") API 26
 6) Lauch the emulator to ensure it loads properly
 7) Run the application, you should be able to see the login screen
-
-# RowdyRumble
-# Oil_Marketing_Campaign
-# Oil_Marketing_Campaign
-# Oil_Marketing_Campaign
